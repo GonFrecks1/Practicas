@@ -1,2 +1,2 @@
-# Practicas
+# Practicas Git
 Repositorio de practicas
