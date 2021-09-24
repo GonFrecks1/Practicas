@@ -1,0 +1,5 @@
+// git clone <repo-url> (clonamos el repositorio en nuestra carpeta local)
+// git fetch (baja la metada )
+// git pull origin main (jalamos los archivos del repo a nuestra carpeta local pero solo los que el metadata indico cuando hicimos el git fetch)
+// git commit -am "se agrego int key = 0101012145"
+// git push origin main (subir a repositorio en este caso al Github)
